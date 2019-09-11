@@ -1,0 +1,6 @@
+C:\Users\Cristian\Desktop\Taller\Taller\ejer7\bin\Debug\ejer7.exe.config
+C:\Users\Cristian\Desktop\Taller\Taller\ejer7\bin\Debug\ejer7.exe
+C:\Users\Cristian\Desktop\Taller\Taller\ejer7\bin\Debug\ejer7.pdb
+C:\Users\Cristian\Desktop\Taller\Taller\ejer7\obj\Debug\ejer7.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Taller\Taller\ejer7\obj\Debug\ejer7.exe
+C:\Users\Cristian\Desktop\Taller\Taller\ejer7\obj\Debug\ejer7.pdb
